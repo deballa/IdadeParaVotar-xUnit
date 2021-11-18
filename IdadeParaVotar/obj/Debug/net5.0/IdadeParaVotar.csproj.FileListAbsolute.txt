@@ -1,0 +1,16 @@
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.exe
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.deps.json
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.runtimeconfig.json
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.runtimeconfig.dev.json
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.dll
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\ref\IdadeParaVotar.dll
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\bin\Debug\net5.0\IdadeParaVotar.pdb
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.AssemblyInfo.cs
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.dll
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\ref\IdadeParaVotar.dll
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.pdb
+C:\Users\etec\Desktop\IdadeParaVotar\IdadeParaVotar\IdadeParaVotar\obj\Debug\net5.0\IdadeParaVotar.genruntimeconfig.cache

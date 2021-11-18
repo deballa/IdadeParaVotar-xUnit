@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IdadeParaVotar/1.0.0": {
+        "runtime": {
+          "IdadeParaVotar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdadeParaVotar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

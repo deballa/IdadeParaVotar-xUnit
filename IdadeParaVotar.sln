@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdadeParaVotar", "IdadeParaVotar\IdadeParaVotar.csproj", "{A59E6B79-E85D-4EF9-8F9D-DD8A9D219C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdadeParaVotar-XUnit", "IdadeParaVotar-XUnit\IdadeParaVotar-XUnit.csproj", "{DAA58ADB-842B-4CC3-A854-D36C52A20A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59E6B79-E85D-4EF9-8F9D-DD8A9D219C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59E6B79-E85D-4EF9-8F9D-DD8A9D219C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59E6B79-E85D-4EF9-8F9D-DD8A9D219C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59E6B79-E85D-4EF9-8F9D-DD8A9D219C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA58ADB-842B-4CC3-A854-D36C52A20A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA58ADB-842B-4CC3-A854-D36C52A20A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA58ADB-842B-4CC3-A854-D36C52A20A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA58ADB-842B-4CC3-A854-D36C52A20A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1A5944-586F-496C-8218-21FCB633F808}
+	EndGlobalSection
+EndGlobal
